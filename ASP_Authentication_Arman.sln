@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{DD243ACB-0B0D-4189-9826-C6C9833023DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{21987167-6C53-48BE-86A0-0FD71B431169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{23DCE9B5-3327-401A-837F-FA6C99DAB68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_ASP", "UI_ASP\UI_ASP.csproj", "{8EC0D771-740D-411E-86AD-D2E4D5F54101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD243ACB-0B0D-4189-9826-C6C9833023DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD243ACB-0B0D-4189-9826-C6C9833023DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD243ACB-0B0D-4189-9826-C6C9833023DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD243ACB-0B0D-4189-9826-C6C9833023DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21987167-6C53-48BE-86A0-0FD71B431169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21987167-6C53-48BE-86A0-0FD71B431169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21987167-6C53-48BE-86A0-0FD71B431169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21987167-6C53-48BE-86A0-0FD71B431169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DCE9B5-3327-401A-837F-FA6C99DAB68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DCE9B5-3327-401A-837F-FA6C99DAB68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DCE9B5-3327-401A-837F-FA6C99DAB68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DCE9B5-3327-401A-837F-FA6C99DAB68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC0D771-740D-411E-86AD-D2E4D5F54101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC0D771-740D-411E-86AD-D2E4D5F54101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC0D771-740D-411E-86AD-D2E4D5F54101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC0D771-740D-411E-86AD-D2E4D5F54101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://arman73k.visualstudio.com/
+		SccProjectUniqueName0 = BLL\\BLL.csproj
+		SccProjectName0 = BLL
+		SccAuxPath0 = https://arman73k.visualstudio.com
+		SccLocalPath0 = BLL
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = DAL\\DAL.csproj
+		SccProjectName1 = DAL
+		SccAuxPath1 = https://arman73k.visualstudio.com
+		SccLocalPath1 = DAL
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = Entity\\Entity.csproj
+		SccProjectName2 = Entity
+		SccAuxPath2 = https://arman73k.visualstudio.com
+		SccLocalPath2 = Entity
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = UI_ASP\\UI_ASP.csproj
+		SccProjectName3 = UI_ASP
+		SccAuxPath3 = https://arman73k.visualstudio.com
+		SccLocalPath3 = UI_ASP
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

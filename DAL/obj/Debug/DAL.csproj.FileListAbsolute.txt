@@ -1,0 +1,8 @@
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\bin\Debug\DAL.dll
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\bin\Debug\DAL.pdb
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\obj\Debug\DAL.dll
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\obj\Debug\DAL.pdb
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\bin\Debug\DAL.dll.config
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\bin\Debug\Entity.dll
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\DAL\bin\Debug\Entity.pdb

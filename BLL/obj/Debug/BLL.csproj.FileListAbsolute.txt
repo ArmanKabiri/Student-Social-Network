@@ -1,0 +1,10 @@
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\bin\Debug\BLL.dll
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\bin\Debug\BLL.pdb
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\obj\Debug\BLL.dll
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\obj\Debug\BLL.pdb
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\bin\Debug\BLL.dll.config
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\bin\Debug\DAL.dll
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\bin\Debug\DAL.pdb
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\bin\Debug\Entity.dll
+C:\Users\Arman\Desktop\ASP_Authentication_Arman\BLL\bin\Debug\Entity.pdb
